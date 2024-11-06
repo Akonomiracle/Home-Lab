@@ -43,3 +43,20 @@ Step 1: Installing VirtualBox & Virtual Machines
 Ref 1. (Image showcasing the VirtualBox and VM installation setup).
 
 
+
+Step 2: Configuring Virtual Machines (VMs)
+
+1. Set Up Networking: Configure each VM's network settings to manage connectivity, essential for tasks such as malware analysis or network scanning, ensuring these operations do not impact the host machine.
+    - Key Network Options in VirtualBox:
+        - NAT: Grants VM internet access via the host's network.
+        - Bridge Adapter: Connects VMs to the same network as the host, where each VM acts as an independent device.
+        - Internal Network: Connects VMs only to each other, isolating them from the host and the internet. Ideal for malware testing and secure communication between VMs.
+        - Host-Only Network: Creates a private network between VMs and the host, with no internet access.
+        - NAT Network: Similar to NAT, but allows multiple VMs on the same network with internet access.
+        - Cloud Network: Connects VMs to the cloud.
+        - Not Attached: Disconnects VMs from any network.
+2. Preferred Network Configuration: Using the Internal Network is recommended to isolate the VMs from the host and internet, allowing safe internal communication for testing purposes.
+
+Ref 2. (Image detailing network configurations).
+
+
