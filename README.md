@@ -60,3 +60,13 @@ Step 2: Configuring Virtual Machines (VMs)
 Ref 2. (Image detailing network configurations).
 
 
+Step 3: Assigning IP Addresses to the VMs
+
+1. Windows VM: Assign a static IP address to ensure consistent connectivity during testing.
+    - Verify the IP assignment using ipconfig in Command Prompt to confirm accurate network settings.
+2. Kali Linux VM: Similarly, assign and check the IP address using ifconfig.
+    - Document the IP configurations to maintain consistency and avoid conflicts.
+
+Ref 3. (Image showing IP assignment for Windows).
+Ref 4. (Image showing IP assignment for Kali Linux).
+
