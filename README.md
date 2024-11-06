@@ -68,5 +68,6 @@ Step 3: Assigning IP Addresses to the VMs
     - Document the IP configurations to maintain consistency and avoid conflicts.
 
 Ref 3. (Image showing IP assignment for Windows).
+
 Ref 4. (Image showing IP assignment for Kali Linux).
 
