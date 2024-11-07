@@ -71,3 +71,7 @@ Ref 3. (Image showing IP assignment for Windows).
 
 Ref 4. (Image showing IP assignment for Kali Linux).
 
+
+Step 4: Testing Connectivity
+
+1. To test connectivity, I performed a ping test from the Windows VM to the Kali VM, generating network traffic between the two systems. This confirmed that the machines were communicating within the isolated network, ensuring a functional setup for further testing and simulations.
