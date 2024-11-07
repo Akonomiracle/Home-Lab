@@ -34,7 +34,7 @@ The primary objective of this home lab is to create a secure environment for tes
 
 ## Steps
 
-Step 1: Installing VirtualBox & Virtual Machines
+#### Step 1: Installing VirtualBox & Virtual Machines
 
 1. Begin by downloading and installing VirtualBox on your host computer, along with virtual machine (VM) ISO image files for your desired operating systems (e.g., Windows, Kali Linux).
     - Ensure that the ISO files are compatible with VirtualBox to prevent installation issues.
