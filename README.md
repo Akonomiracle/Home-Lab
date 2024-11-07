@@ -79,19 +79,15 @@ Ref 4. (Image showing IP assignment for Kali Linux).
 ## Practical Applications and Organizational Benefits
 
 #### 1. Risk-Free Testing Environment:
-
 A well-structured virtual lab provides a safe environment for analyzing malware, understanding its behavior, and studying indicators of compromise without risking real-world systems. 
 
 #### 2. Network Security Protocols and Configurations:
-
 In a professional setting, these skills translate to efficient management of firewalls, secure network designs, and troubleshooting network issues to prevent unauthorized access.
 
 #### 3. Cybersecurity Training and Skill Development:
-
 The ability to simulate real-world attacks, practice defensive strategies, and refine response tactics benefits organizations by ensuring their security teams are well-prepared for emerging threats.
 
 #### 4. Cost-Effective Solution for Cybersecurity Skills Development:
-
 Virtual labs are highly cost-effective, requiring minimal physical hardware and infrastructure. By adopting similar lab setups, organizations can train their teams in the latest cybersecurity tools and techniques while minimizing costs.
 
 #### 5. Practical Experience with Cybersecurity Tools and Techniques:
