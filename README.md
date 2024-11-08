@@ -69,10 +69,9 @@ Ref 2. Network configurations.
 2. Kali Linux VM: Similarly, assign and check the IP address using ifconfig.
     - Document the IP configurations to maintain consistency and avoid conflicts.
 ![Ref 3  Assigning windows IP Address](https://github.com/user-attachments/assets/d107fa5c-b112-4690-8beb-13d7021f4e28)
-
 Ref 3. IP assignment for Windows.
-![Ref 4  Assigning Kali IP Address](https://github.com/user-attachments/assets/50f84fa5-5568-4a64-a5a1-8bd8fe599125)
 
+![Ref 4  Assigning Kali IP Address](https://github.com/user-attachments/assets/50f84fa5-5568-4a64-a5a1-8bd8fe599125)
 Ref 4. IP assignment for Kali Linux.
 
 
