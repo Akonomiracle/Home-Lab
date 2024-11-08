@@ -40,7 +40,8 @@ The primary objective of this home lab is to create a secure environment for tes
     - Ensure that the ISO files are compatible with VirtualBox to prevent installation issues.
 2. Load the ISO images into VirtualBox to initialize the VMs.
 
-Ref 1. (Image showcasing the VirtualBox and VM installation setup).
+![Ref 1  installing kali](https://github.com/user-attachments/assets/56ab970a-d8a0-40f8-b229-c6c9381f545b)
+Ref 1. VirtualBox and VM installation.
 
 
 
@@ -57,7 +58,8 @@ Ref 1. (Image showcasing the VirtualBox and VM installation setup).
         - Not Attached: Disconnects VMs from any network.
 2. Preferred Network Configuration: Using the Internal Network is recommended to isolate the VMs from the host and internet, allowing safe internal communication for testing purposes.
 
-Ref 2. (Image detailing network configurations).
+![Ref 2  Network list](https://github.com/user-attachments/assets/2e4c13f2-802a-4bd3-b554-6826c4bf0ae7)
+Ref 2. Network configurations.
 
 
 #### Step 3: Assigning IP Addresses to the VMs
@@ -66,10 +68,12 @@ Ref 2. (Image detailing network configurations).
     - Verify the IP assignment using ipconfig in Command Prompt to confirm accurate network settings.
 2. Kali Linux VM: Similarly, assign and check the IP address using ifconfig.
     - Document the IP configurations to maintain consistency and avoid conflicts.
+![Ref 3  Assigning windows IP Address](https://github.com/user-attachments/assets/d107fa5c-b112-4690-8beb-13d7021f4e28)
 
-Ref 3. (Image showing IP assignment for Windows).
+Ref 3. IP assignment for Windows.
+![Ref 4  Assigning Kali IP Address](https://github.com/user-attachments/assets/50f84fa5-5568-4a64-a5a1-8bd8fe599125)
 
-Ref 4. (Image showing IP assignment for Kali Linux).
+Ref 4. IP assignment for Kali Linux.
 
 
 #### Step 4: Testing Connectivity
